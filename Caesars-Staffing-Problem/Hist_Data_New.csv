@@ -1,4 +1,4 @@
-Days,Avg.Checkins,Months,Avg.Checkins,Year,Avg.Checkins,Holidays,Avg.Checkins
+Days,Dcheck,Months,Mcheck,Year,Ycheck,Holidays,Hcheck
 SUN,1397.588235,JAN,1154.056452,2010,1079.292818,1st-of-month,1182.363636
 MON,1175.673797,FEB,1215.831858,2011,1114.975207,15th-of-month,1317.264706
 TUE,949.2566845,MAR,1159.774194,2012,1286.415094,Jewish-Holiday,1117.354839
